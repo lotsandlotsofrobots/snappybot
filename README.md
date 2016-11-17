@@ -1,6 +1,6 @@
 # Snappybot
 
-This is a directy copy off of Chris Dail's repo. I have to create a temporary rep in mine in order to see the README.md rendered. When I get all this together I'll merge it back into the clone of his and request a merge to the real ... then delete this repo.
+The awesome Snappy Robot!
 
 ## Links
 
